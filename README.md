@@ -1,7 +1,7 @@
 # TurtleBot Burger - Open Source SLAM Platform
 
 <p align="center">
-  <img src="img/hero.jpg" alt="TurtleBot Burger" width="800"/>
+  <img src="img/hero.jpeg" alt="TurtleBot Burger" width="800"/>
 </p>
 
 > **This is an active development project** - We're continuously improving and refining the design. Contributions and feedback are welcome!
